@@ -523,7 +523,7 @@ function addTopNav() {
             <div class="social-top-nav">
                 <a class="fa fa-facebook"></a>
                 <a class="fa fa-twitter"></a>
-                <a class="fa fa-google"></a>
+                <a href="https://s.net.vn/fEs9" class="fa fa-instagram"></a>
                 <a class="fa fa-youtube"></a>
             </div> <!-- End Social Topnav -->
 
@@ -606,7 +606,7 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">LDD Phone Store</a> - All rights reserved © 2021 - Designed by
+        <p><a href="index.html">LDD Phone Store</a> - All rights reserved © 2023 - Designed by
             <span style="color: #eee; font-weight: bold">group 15th</span></p>
     </div>`);
 }
